@@ -299,12 +299,82 @@ visibility: hidden;
 }
 
 
+.T8VaVe {
+    visibility: hidden;
+    color: #4285f4;
+    font: 16px/16px roboto-regular, arial, sans-serif;
+    position: absolute;
+    left: 215px;
+    bottom: 0;
+    white-space: nowrap;
+}
+
+ /*img.lnXdpd {
+    width: 0px !important;
+    height: 0px !important;
+    padding-top: 200px !important;
+    padding-left: 450px !important;
+    background: url(https://web.archive.org/web/20120313031906im_/http://www.google.ca/intl/en_ALL/images/logos/images_logo_lg.gif) no-repeat center !important;
+        background-repeat: no-repeat;
+        background-size: auto;
+    background-size: 276px 110px !important;
+    position: relative !important;
+    overflow: visible !important;
+    top: -50px !important;
+}*/
+
+.tdPRye {
+    visibility: hidden;
+    height: 24px;
+    width: 24px;
+    background: url('//www.gstatic.com/images/icons/material/system/2x/photo_camera_grey600_24dp.png') 0 0 no-repeat;
+        background-size: auto;
+    background-size: 24px;
+    margin-left: 50px;
+}
+
+.Tg7LZd:after {
+    
+    position: absolute;
+    bottom: 3px;
+    right: -60px;
+    width:  110px;
+
+    color: black;
+    border-radius: 0px;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 0 -70px;
+    padding: 1 16px;
+    line-height: 28px;
+    height: 29px;
+    min-width: 1px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    border: solid 1px;
+    border-color: #ccc #999 #999 #ccc;
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(235,235,235,1) 14%, rgba(227,227,227,1) 63%, rgba(221,221,221,1) 100%);
+        background-color: rgba(0, 0, 0, 0);
+    content: 'Search';
+}
 
 
-
-
-
-
-
-
-
+.lJ9FBc input[type="submit"], .gbqfba {
+    border-radius: 0px;
+    color: #000;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    border: solid 1px;
+    border-color: #ccc #999 #999 #ccc;
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(235,235,235,1) 14%, rgba(227,227,227,1) 63%, rgba(221,221,221,1) 100%);
+        background-color: rgba(0, 0, 0, 0);
+}
