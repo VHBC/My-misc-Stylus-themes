@@ -1,5 +1,6 @@
 # My-misc-Stylus-themes
 random stylus themes ive made or modified heavily.
+credit to Kyle Boyd for original stylus theme that only changed the logo.
 
 includes:
 - 2012 google logo + my custom css (2012 google theme)
