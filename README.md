@@ -6,3 +6,6 @@ includes:
 ...more to come
 
 To Install, just make a new stylus theme and paste all the stuff in the .txt into it. Save and enable.
+
+2012 google logo + my custom css
+![before]([https://i.imgur.com/NFlIDYt.png](https://i.imgur.com/79N9xX5.png)
