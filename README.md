@@ -1,5 +1,5 @@
 # My-misc-Stylus-themes
-random stylus themes ive made or modified heavily.
+random stylus themes ive made or modified heavily.</br>
 credit to Kyle Boyd for original stylus theme that only changed the logo.
 
 includes:
